@@ -1,0 +1,169 @@
+[
+  {
+    "id": 1,
+    "name": "Poco X6 PRO",
+    "description": "Poco X6 Pro 5G — это новинка популярной марки известного бренда Xiaomi с великолепным большим экраном, поддержкой сетей 5G и отличным тонким и легким корпусом, прекрасно ложащимся в руку.",
+    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/12641020/2a0000018db617f4915aea2e44695b62f2dc/600x800",
+    "price":  300
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S22 Ultra",
+    "description": "Samsung Galaxy S22 Ultra - флагманский смартфон с потрясающим экраном, мощным процессором и продвинутой камерой.",
+    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/12418417/img_id6080327121564249554.png/600x800",
+    "price": 1200
+  },
+
+  {
+    "id": 3,
+    "name": "iPhone 14 Pro",
+    "description": "iPhone 14 Pro - новое поколение смартфонов от Apple с улучшенной камерой, быстрым процессором и элегантным дизайном.",
+    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4448884/img_id6599794068360807117.jpeg/600x800",
+    "price": 1400
+  },
+
+  {
+    "id": 4,
+    "name": "OnePlus 10 Pro",
+    "description": "OnePlus 10 Pro - мощный смартфон с высокой производительностью, стильным дизайном и быстрой зарядкой.",
+    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4012481/img_id2020470686341882681.png/600x800",
+    "price": 900
+  },
+
+  {
+    "id": 5,
+    "name": "Google Pixel 7",
+    "description": "Google Pixel 7 - смартфон с передовыми функциями и высококачественной камерой, идеальный для любителей фотографии.",
+    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/11450294/img_id1164657346827869821.png/600x800",
+    "price": 800
+  },
+
+  {
+    "id": 6,
+    "name": "Xiaomi Mi 12",
+    "description": "Xiaomi Mi 12 - инновационный смартфон с передовыми технологиями, большим экраном и высокой производительностью.",
+    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4949903/img_id4222722331665373064.jpeg/600x800",
+    "price": 1000
+  },
+
+  {
+    "id": 7,
+    "name": "Sony Xperia 5 III",
+    "description": "Sony Xperia 5 III - компактный смартфон с высококачественным дисплеем, мощной камерой и долгим временем работы от батареи.",
+    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/11385384/2a0000018c58b6d63e2eb0c0ab5ef5a899b5/600x800",
+    "price": 950
+  },
+
+  {
+    "id": 8,
+    "name": "Huawei P50 Pro",
+    "description": "Huawei P50 Pro - стильный смартфон с инновационной камерой, элегантным дизайном и высокой производительностью.",
+    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/5212780/img_id8332243092035910312.png/600x800",
+    "price": 1100
+  },
+
+  {
+    "id": 9,
+    "name": "Realme GT 2 Pro",
+    "description": "Realme GT 2 Pro - мощный смартфон с высокой производительностью, быстрой зарядкой и превосходным качеством камеры.",
+    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/4984138/img_id848613765118767431.jpeg/600x800",
+    "price": 850
+  },
+
+  {
+    "id": 10,
+    "name": "Oppo Find X5 Pro",
+    "description": "Oppo Find X5 Pro - флагманский смартфон с потрясающим дисплеем, продвинутой камерой и элегантным дизайном.",
+    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/10352132/img_id5176322825694418817.jpeg/600x800",
+    "price": 1050
+  },
+
+  {
+    "id": 11,
+    "name": "Motorola Edge 30 Pro",
+    "description": "Motorola Edge 30 Pro - мощный смартфон с высокой производительностью, стильным дизайном и долгим временем работы от батареи.",
+    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/5212780/img_id8332243092035910312.png/600x800",
+    "price": 950
+  },
+
+  {
+    "id": 12,
+    "name": "ASUS ROG Phone 6",
+    "description": "ASUS ROG Phone 6 - игровой смартфон с высокой производительностью, улучшенной системой охлаждения и быстрой зарядкой.",
+    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/5251502/2a0000018e5a9526201cfeb45cf4b484fadd/600x800",
+    "price": 1200
+  },
+
+  {
+    "id": 13,
+    "name": "Lenovo Legion Phone 3",
+    "description": "Lenovo Legion Phone 3 - мощный игровой смартфон с высокой производительностью, уникальным дизайном и продвинутой системой охлаждения.",
+    "imageUrl": "https://www.gizmochina.com/wp-content/uploads/2021/03/Lenovo-Legion-Pro.jpg",
+    "price": 1000
+  },
+
+  {
+    "id": 14,
+    "name": "Nokia X100",
+    "description": "Nokia X100 - надежный смартфон с высоким временем автономной работы, качественной камерой и прочным корпусом.",
+    "imageUrl": "https://smartphonebio.com/wp-content/uploads/2021/08/Nokia-X100-Pro.jpg",
+    "price": 700
+  },
+
+  {
+    "id": 15,
+    "name": "BlackBerry Key3",
+    "description": "BlackBerry Key3 - смартфон с физической клавиатурой, элегантным дизайном и расширенными функциями безопасности.",
+    "imageUrl": "https://blackberry-rus.ru/image/cache/catalog/key3/key3fake_01-1000x1000.jpg",
+    "price": 800
+  },
+
+  {
+    "id": 16,
+    "name": "LG Velvet 3",
+    "description": "LG Velvet 3 - стильный смартфон с высококачественным дисплеем, мощной камерой и продвинутыми аудиофункциями.",
+    "imageUrl": "https://amarprice.com/wp-content/uploads/LG-Velvet-price-in-bangladesh.jpg",
+    "price": 900
+  },
+
+  {
+    "id": 17,
+    "name": "ZTE Axon 40 Pro",
+    "description": "ZTE Axon 40 Pro - смартфон с передовыми функциями, высокой производительностью и доступной ценой.",
+    "imageUrl": "https://cdn1.ozone.ru/s3/multimedia-s/6390720412.jpg",
+    "price": 750
+  },
+
+  {
+    "id": 18,
+    "name": "Vivo X90 Pro",
+    "description": "Vivo X90 Pro - смартфон с высококачественной камерой, элегантным дизайном и продвинутыми функциями селфи.",
+    "imageUrl": "https://unboxingtech.com.bd/public/uploads/all/EY8NvrBQMMOvk4ew9SVA7P0zMb2Xo2z3Mz5DRkHs.jpg",
+    "price": 950
+  },
+
+  {
+    "id": 19,
+    "name": "Meizu 19 Pro",
+    "description": "Meizu 19 Pro - стильный смартфон с высокой производительностью, улучшенной камерой и долгим временем работы от батареи.",
+    "imageUrl": "https://ae04.alicdn.com/kf/S384ad0a1507644e0a3668408e4725c42l.jpg",
+    "price": 850
+  },
+
+  {
+    "id": 20,
+    "name": "HTC U23",
+    "description": "HTC U23 - недорогой смартфон с приятным дизайном, удобным интерфейсом и хорошей автономной работой.",
+    "imageUrl": "https://avatars.mds.yandex.net/get-mpic/11535894/img_id8535322158296003917.png/600x800",
+    "price": 600
+  },
+
+  {
+    "id": 21,
+    "name": "Cat S62 Pro",
+    "description": "Cat S62 Pro - прочный смартфон с защитой от воды и пыли, термальной камерой и долгим временем работы от батареи.",
+    "imageUrl": "https://ts.sdn.si/hybris/1000/70027322_00/cat-s62-pro-128gb-crna/006.jpg",
+    "price": 800
+  }
+
+]
